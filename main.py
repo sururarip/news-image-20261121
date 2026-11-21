@@ -14,7 +14,7 @@ import shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SOURCE = os.path.join(HERE, "entry.png")
-EXPECTED_SHA256 = "1121e44de6b938108ba2aacded843d6265bf38f8ed14a2c9b12b248cf816acfa"
+EXPECTED_SHA256 = "670d3e1c344ce26fc2205e4aac5cdebeebbc8e3f607fc06f3f7f0d128e3537a1"
 
 
 def main():
